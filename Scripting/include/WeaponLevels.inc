@@ -1,0 +1,81 @@
+// SECONDARY WEAPONS
+#define LEVEL_INFINITY 7
+#define LEVEL_BALROG1 13
+#define LEVEL_JANUS1 36
+#define LEVEL_SAPIENTIA 17
+#define LEVEL_THANATOS1 24
+#define LEVEL_SKULL2 30
+#define LEVEL_CRIMSON 48
+#define LEVEL_VULCANUS1 46
+
+// SHOTGUNS
+#define LEVEL_GATLING 14
+#define LEVEL_UTS15 23
+#define LEVEL_SKULL11 29
+#define LEVEL_KSG 37
+#define LEVEL_BALROG11 54
+
+// SUB GUNS
+#define LEVEL_SFGUN 3
+#define LEVEL_TEMPSET 1
+#define LEVEL_K1ASES 10
+#define LEVEL_DUALKRISS 6
+#define LEVEL_THANATOS3 22
+
+// RIFLE GUNS
+#define LEVEL_SKULL4 15
+#define LEVEL_CROW5 16
+#define LEVEL_JANUS5 21
+#define LEVEL_BALROG5 28
+#define LEVEL_THANATOS5 32
+#define LEVEL_M4BUFF 38
+#define LEVEL_AK47BUFF 40
+
+// SNIPER GUN
+#define LEVEL_M24 5
+#define LEVEL_SL8 12
+#define LEVEL_SKULL5 27
+#define LEVEL_AS50 35
+#define LEVEL_M95 45
+#define LEVEL_MAGNUM 53
+
+// MACHINES
+#define LEVEL_MG3 11
+#define LEVEL_SKULL8 20
+#define LEVEL_BALROG7 25
+#define LEVEL_CROW7 31
+#define LEVEL_SFMG 39
+#define LEVEL_THANATOS7 44
+#define LEVEL_JANUS7 51
+#define LEVEL_M134Hero 55
+
+// DESTROYERS
+#define LEVEL_PLASMA 41
+#define LEVEL_POWERSAW 43
+#define LEVEL_AT4CS 52
+#define LEVEL_CANNON 47
+#define LEVEL_PETROL 60
+#define LEVEL_DRIPPER 61
+
+// KNIFE WEAPONS
+#define LEVEL_COMBAT 2
+#define LEVEL_STRONG 9
+#define LEVEL_SKULL9 19
+#define LEVEL_SWORD 26
+#define LEVEL_THANATOS9 33
+#define LEVEL_WARHAMMER 49
+#define LEVEL_CROW9 56
+#define LEVEL_RUNEBLADE 58
+
+// HUMAN CLASS LEVELS
+#define LEVEL_SAF 4
+#define LEVEL_SAT 8
+#define LEVEL_GERRARD 18
+#define LEVEL_JENNIFER 34
+#define LEVEL_MAY 42
+#define LEVEL_WALTER 50
+#define LEVEL_HUNTER 57
+#define LEVEL_JIM 59
+/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE
+*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang1026\\ f0\\ fs16 \n\\ par }
+*/
